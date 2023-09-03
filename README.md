@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lzzlvld
 - 👀 I’m interested in Web Scraping and Data Science
 - 🌱 I’m currently learning Web Scraping with Python and Machine Learning
-- 💞️ I’m looking to collaborate on ... I do no know yet
+- 💞️ I’m looking to collaborate on ... I do not know yet
 - 📫 How to reach me: lozovetskiy.vladislav@gmail.com
 
 <!---
